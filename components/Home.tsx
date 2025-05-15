@@ -13,6 +13,7 @@ export default function Home() {
         <main
             className="font-main bg-primary flex justify-center justify-items-center items-center min-h-screen p-8 sm:p-20 relative">
             <section
+                id="home"
                 className="flex lg:flex-row flex-col justify-between sm:gap-[32px] gap-[16px] row-start-2 items-center xl:w-9/12 w-11/12 mb-5 sm:mb-0">
                 <div
                     className="flex flex-col sm:gap-[32px] gap-[16px] lg:order-none order-1 lg:basis-[70%] lg:justify-normal lg:items-baseline items-center">

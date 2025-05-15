@@ -21,5 +21,12 @@
     "text": "Soy un desarrollador backend especializado en PHP/Laravel, con una sólida base en la construcción de APIs y una experiencia amplia que se extiende a tecnologías full stack. A lo largo de mi carrera, he dedicado mi enfoque a dominar PHP/Laravel, permitiéndome diseñar y desarrollar soluciones backend complejas con eficiencia y precisión. También poseo competencias en tecnologías front-end, lo que me capacita para contribuir en todo el espectro del desarrollo de aplicaciones web.",
     "hello": "Hola, soy",
     "years": "años"
+  },
+  "Services": {
+    "header": "¿Qué hago?",
+    "title": "Cómo puedo ayudarle en su próximo proyecto",
+    "applications": "Aplicaciones web personalizadas",
+    "maintenance": "Mantenimiento y actualización de webs",
+    "api": "Desarrollo e integración de APIs"
   }
 }
