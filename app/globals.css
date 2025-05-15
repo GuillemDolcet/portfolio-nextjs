@@ -94,6 +94,18 @@
   --color-background: var(--background);
   --color-foreground: var(--foreground);
   --font-main: 'Poppins';
+  --animate-fadeInDown: fadeInDown 1.5s infinite;
+
+  @keyframes fadeInDown {
+    0% {
+      top:-25px;
+      opacity:0
+    }
+    to {
+      top:10px;
+      opacity:1
+    }
+  }
 }
 
 .bg-primary {
