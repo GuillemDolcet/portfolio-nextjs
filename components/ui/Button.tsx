@@ -1,10 +1,12 @@
-import React from 'react';
+import { ButtonHTMLAttributes, ReactNode } from "react";
 
-const Button = ({children, ...props }) => {
+type ButtonProps = {
+    children: ReactNode;
+} & ButtonHTMLAttributes<HTMLButtonElement>;
+
+const Button = ({ children, ...props }: ButtonProps) => {
     return (
-        <button
-            {...props}
-        >
+        <button {...props}>
             {children}
         </button>
     );

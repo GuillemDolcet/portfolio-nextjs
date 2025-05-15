@@ -8,5 +8,18 @@
     "look_at_my_jobs": "Mira mis trabajos",
     "contact_me": "Contactame",
     "look": "Mira mis trabajos"
+  },
+  "About": {
+    "header": "Sobre Mi",
+    "title": "Conóceme más",
+    "years_of": "Años de",
+    "experience": "Experiencia",
+    "email": "Email",
+    "age": "Edad",
+    "location": "Localización",
+    "phone": "Teléfono",
+    "text": "Soy un desarrollador backend especializado en PHP/Laravel, con una sólida base en la construcción de APIs y una experiencia amplia que se extiende a tecnologías full stack. A lo largo de mi carrera, he dedicado mi enfoque a dominar PHP/Laravel, permitiéndome diseñar y desarrollar soluciones backend complejas con eficiencia y precisión. También poseo competencias en tecnologías front-end, lo que me capacita para contribuir en todo el espectro del desarrollo de aplicaciones web.",
+    "hello": "Hola, soy",
+    "years": "años"
   }
 }

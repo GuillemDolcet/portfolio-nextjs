@@ -27,7 +27,7 @@ export default async function LocaleLayout({children, params}: {
 
     return (
         <html lang={locale}>
-            <body>
+            <body className="scroll-smooth">
                 <NextIntlClientProvider messages={messages}>
                     {children}
                 </NextIntlClientProvider>

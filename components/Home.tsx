@@ -11,9 +11,9 @@ export default function Home() {
 
     return (
         <main
-            className="font-main bg-primary grid grid-rows-[20px_1fr_20px] justify-items-center items-center min-h-screen p-8 sm:p-20">
+            className="font-main bg-primary flex justify-center justify-items-center items-center min-h-screen p-8 sm:p-20 relative">
             <section
-                className="flex lg:flex-row flex-col justify-between sm:gap-[32px] gap-[16px] row-start-2 items-center xl:w-9/12 w-11/12">
+                className="flex lg:flex-row flex-col justify-between sm:gap-[32px] gap-[16px] row-start-2 items-center xl:w-9/12 w-11/12 mb-5 sm:mb-0">
                 <div
                     className="flex flex-col sm:gap-[32px] gap-[16px] lg:order-none order-1 lg:basis-[70%] lg:justify-normal lg:items-baseline items-center">
                     <h1 className="sm:text-5xl text-3xl font-light uppercase">{translations('hello')}</h1>
@@ -49,7 +49,7 @@ export default function Home() {
                     </div>
                 </div>
             </section>
-            <a href="#about" className="absolute z-30 bottom-5 left-1/2 ml-4 w-8 h-8 leading-[32px] text-[20px] text-center">
+            <a href="#about" className="absolute z-30 bottom-5 left-1/2 -ml-4 w-8 h-8 leading-[32px] text-[20px] text-center">
                 <IconArrowNarrowDown className="relative animate-fadeInDown" stroke={2} />
             </a>
         </main>
