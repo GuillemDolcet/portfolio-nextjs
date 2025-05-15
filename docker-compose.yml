@@ -1,0 +1,8 @@
+services:
+    nextjs:
+        image: portfolio-nextjs
+        ports:
+            - 3000:3000
+        user: node
+        volumes:
+            - .:/srv/www/frontend
