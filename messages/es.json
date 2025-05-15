@@ -28,5 +28,21 @@
     "applications": "Aplicaciones web personalizadas",
     "maintenance": "Mantenimiento y actualización de webs",
     "api": "Desarrollo e integración de APIs"
+  },
+  "Cv": {
+    "header": "Currículum",
+    "title": "Resumen de mi currículum",
+    "my_education": "Mi Educacion",
+    "my_experience": "Mi Experiencia",
+    "title_first_education": "Formación Profesional de Grado Medio",
+    "desc_first_education": "Graduado en Técnico en Sistemas Microinformáticos y Redes con habilidades sólidas en mantenimiento, configuración y resolución de problemas en entornos informáticos.",
+    "title_second_education": "Formación Profesional de Grado Superior",
+    "desc_second_education": "Graduado con un Grado Superior en Desarrollo de Aplicaciones Web, con habilidades avanzadas en el diseño, construcción y resolución de problemas en aplicaciones web.",
+    "title_first_experience": "Fullstack Software Engineer",
+    "desc_first_experience": "Desarrollo en PHP y Laravel, destacando en el diseño e implementación de soluciones eficientes. Especializado en la integración fluida de APIs para optimizar procesos.",
+    "title_second_experience": "Fullstack Software Engineer",
+    "desc_second_experience": "Desarrollo en PHP y Laravel, destacando en el diseño e implementación de soluciones eficientes. Especializado en la integración fluida de APIs para optimizar procesos.",
+    "title_third_experience": "Fullstack Software Engineer",
+    "desc_third_experience": "Desarrollo en PHP y Laravel, destacando en el diseño e implementación de soluciones eficientes. Especializado en la integración fluida de APIs para optimizar procesos."
   }
 }
