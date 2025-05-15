@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+echo "Building 'node' base images"
+docker image build --pull --force-rm --no-cache -t 'portfolio-node' node/
+
+echo "Building 'nextjs' images"
+docker image build --force-rm --no-cache -t 'portfolio-nextjs' nextjs/

@@ -41,4 +41,10 @@ yarn-error.log*
 next-env.d.ts
 
 #JetBrains
-.idea
+/.idea
+
+#Docker
+/.docker-proxy
+
+#pnpm
+/.pnpm-store
