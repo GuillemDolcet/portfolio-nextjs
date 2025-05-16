@@ -43,6 +43,8 @@
     "title_second_experience": "Fullstack Software Engineer",
     "desc_second_experience": "Desarrollo en PHP y Laravel, destacando en el diseño e implementación de soluciones eficientes. Especializado en la integración fluida de APIs para optimizar procesos.",
     "title_third_experience": "Fullstack Software Engineer",
-    "desc_third_experience": "Desarrollo en PHP y Laravel, destacando en el diseño e implementación de soluciones eficientes. Especializado en la integración fluida de APIs para optimizar procesos."
+    "desc_third_experience": "Desarrollo en PHP y Laravel, destacando en el diseño e implementación de soluciones eficientes. Especializado en la integración fluida de APIs para optimizar procesos.",
+    "currently": "Actualmente tengo este cargo",
+    "my_skills": "Mis Habilidades"
   }
 }
